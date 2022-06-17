@@ -1,2 +1,2 @@
 # aks-demo-tf
-My simples AKS demo
+My simple AKS demo
